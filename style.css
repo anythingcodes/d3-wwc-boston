@@ -1,0 +1,15 @@
+body {
+    font-family: Tahoma,Verdana,Segoe,sans-serif;
+}
+#chart {
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+}
+.bar {
+    background: teal;
+    color: white;
+    margin: 0 5px;
+    padding: 5px;
+    width: 50px;
+}
